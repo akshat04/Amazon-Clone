@@ -25,10 +25,7 @@
         </ul>
     </section>
 
-  <section>
-        <h2>Sneak Peek 📸</h2>
-        <p>(Here you can include some screenshots of your project)</p>
-    </section>
+
 
   <section>
         <h2>Getting Started 🚀</h2>
