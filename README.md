@@ -31,7 +31,7 @@
         <h2>Getting Started 🚀</h2>
         <p>To get a local copy up and running, follow these simple steps:</p>
         <ol>
-            <li>Clone the repo: <code>git clone [your-repo-link]</code></li>
+            <li>Clone the repo: <code>git clone https://github.com/akshat04/Amazon-Clone</code></li>
             <li>Navigate to the project directory: <code>cd amazon-clone</code></li>
             <li>Open the project in your preferred browser.</li>
         </ol>
