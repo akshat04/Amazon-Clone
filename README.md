@@ -55,6 +55,6 @@
     </section>
 
   <section>
-        <h2>Contact 📫</h2>
-        <p>Your Name - <a href="mailto:Akshat04Shrivastava@example.com">your-email@example.com</a></p>
+        <h2>Contact 📫 - <a href="telto:"+13527093766">+1 (352)-709-3766</a></h2>
+        <p>Akshat Shrivastava - <a href="mailto:AkshatShrivastava0407@gmail.com">AkshatShrivastava0407@gmail.com</a></p>
     </section>
